@@ -1,1 +1,20 @@
-# 2d-array-pattern-printing-
+# 2d-array-pattern-printing
+pattern
+
+*
+
+**
+
+***
+
+****
+
+*****
+
+****
+
+***
+
+**
+
+*
